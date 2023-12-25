@@ -1,0 +1,14 @@
+D:\ОА\C#\2 курс\PizzeriaDB\Pizzeria.Core\obj\Debug\net7.0\Pizzeria.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОА\C#\2 курс\PizzeriaDB\Pizzeria.Core\obj\Debug\net7.0\Pizzeria.Core.AssemblyInfoInputs.cache
+D:\ОА\C#\2 курс\PizzeriaDB\Pizzeria.Core\obj\Debug\net7.0\Pizzeria.Core.AssemblyInfo.cs
+D:\ОА\C#\2 курс\PizzeriaDB\Pizzeria.Core\obj\Debug\net7.0\Pizzeria.Core.csproj.CoreCompileInputs.cache
+D:\ОА\C#\2 курс\PizzeriaDB\Pizzeria.Core\bin\Debug\net7.0\Pizzeria.Core.deps.json
+D:\ОА\C#\2 курс\PizzeriaDB\Pizzeria.Core\bin\Debug\net7.0\Pizzeria.Core.runtimeconfig.json
+D:\ОА\C#\2 курс\PizzeriaDB\Pizzeria.Core\bin\Debug\net7.0\Pizzeria.Core.dll
+D:\ОА\C#\2 курс\PizzeriaDB\Pizzeria.Core\bin\Debug\net7.0\Pizzeria.Core.pdb
+D:\ОА\C#\2 курс\PizzeriaDB\Pizzeria.Core\obj\Debug\net7.0\Pizzeria.Core.csproj.AssemblyReference.cache
+D:\ОА\C#\2 курс\PizzeriaDB\Pizzeria.Core\obj\Debug\net7.0\Pizzeria.Core.dll
+D:\ОА\C#\2 курс\PizzeriaDB\Pizzeria.Core\obj\Debug\net7.0\refint\Pizzeria.Core.dll
+D:\ОА\C#\2 курс\PizzeriaDB\Pizzeria.Core\obj\Debug\net7.0\Pizzeria.Core.pdb
+D:\ОА\C#\2 курс\PizzeriaDB\Pizzeria.Core\obj\Debug\net7.0\Pizzeria.Core.genruntimeconfig.cache
+D:\ОА\C#\2 курс\PizzeriaDB\Pizzeria.Core\obj\Debug\net7.0\ref\Pizzeria.Core.dll
